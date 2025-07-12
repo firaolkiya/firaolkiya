@@ -88,6 +88,13 @@ Over the years, I’ve built multiple impactful software products — from AI-po
 
 ---
 
+## 📅 Yearly Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/firaolkiya/firaolkiya/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 _“Engineering with purpose — building software that’s clean, scalable, and meaningful.”_
 
 ---
