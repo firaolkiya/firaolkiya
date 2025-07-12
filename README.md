@@ -80,6 +80,18 @@ Over the years, I’ve built multiple impactful software products — from AI-po
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firaolkiya&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+_“Engineering with purpose — building software that’s clean, scalable, and meaningful.”_
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
