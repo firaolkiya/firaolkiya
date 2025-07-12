@@ -1,68 +1,76 @@
 # 👋 Hi, I'm Firaol Bulo
 
-🎓 Third-Year Software Engineering Student at Adama Science and Technology University (ASTU)  
-🌍 Based in Ethiopia | 💻 Mobile Application Developer | 🤝 Team Player | 🚀 Lifelong Learner  
+🎓 Final-Year Software Engineering Student | 💡 AI & Automation Enthusiast | 📱 Mobile & Backend Developer  
+🌍 Based in Adama, Ethiopia | 🧠 Passionate about solving real-world problems with technology
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and goal-driven software engineer with strong experience in **Flutter**, **Kotlin Jetpack Compose**, and **clean architecture**. I'm currently honing my skills through the **A2SV (Africa to Silicon Valley)** program and actively contributing to real-world projects that solve meaningful problems.
+I'm a **fifth-year Software Engineering student** at **Adama Science and Technology University (ASTU)** and a selected participant of **Africa to Silicon Valley (A2SV)** — a high-impact program focused on competitive programming and full-stack development.
 
-I'm especially interested in:
-- 📱 Mobile App Development (Flutter & Android)
-- 🧠 Problem Solving & Algorithms
-- 🧪 Test-Driven Development
-- 🌐 RESTful APIs Integration
-- 💬 Real-time Chat & E-Commerce Applications
+Over the past few years, I’ve developed and led multiple production-ready applications — from scalable backend systems to mobile-first platforms — with a strong focus on **clean architecture**, **automation**, and **machine learning**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack & Skills
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### 🚀 Core Expertise
+- **Mobile Development:** Flutter, Kotlin (Jetpack Compose), Clean Architecture
+- **Backend Development:** FastAPI, Django, Spring Boot, REST APIs, CI/CD
+- **Web Scraping & Automation:** Python (Selenium, BeautifulSoup, Requests)
+- **Machine Learning:** Python, scikit-learn, TensorFlow (beginner)
+- **DevOps & Tools:** Docker, Kubernetes, Git, GitHub Actions, Alembic
+
+### 🧠 Programming Languages
+Python, Dart, Kotlin, Java, C++, JavaScript, PHP, SQL, NoSQL (MongoDB, Firebase)
 
 ---
 
-## 📈 My GitHub Stats
+## 🧩 Featured Projects
+
+### 🔗 [Social Media App](https://github.com/firaolkiya)
+A full-featured mobile app built using Flutter and Microservices.
+- 🧩 Modular architecture with 6+ microservices (auth, posts, chat, preferences)
+- 📦 Cloudinary integration for media uploads
+- 🚀 TDD + Clean Architecture for scalable codebase
+
+### 🏫 [SchoolHub](https://github.com/firaolkiya)
+A robust school management platform.
+- ⚙️ Built with FastAPI, Docker, Kubernetes, PostgreSQL
+- 👥 Manages attendance, grading, and messaging for 1000+ users
+- 🛠️ CI/CD deployed with near-zero deployment issues
+
+### 🤖 [AI Competition Automation](https://github.com/firaolkiya)
+Automates participation in competitive AI platforms.
+- 🔍 Automates dataset handling, training, and result submission
+- 📊 Python + shell scripts for scraping, training, and orchestration
+- ⏱️ Saves 70% manual work in competition pipelines
+
+### 🛒 [E-Commerce App](https://github.com/firaolkiya)
+Flutter-based app for buying and selling products.
+- 🔐 Features: authentication, product listing, real-time chat, order tracking
+- ⚙️ Clean architecture + Hive/Shared Preferences caching
+- 📱 500+ users with 99% crash-free sessions
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firaolbulo&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firaolbulo&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firaolkiya&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firaolkiya&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 🔥 Recent Projects
+## 📫 Get in Touch
 
-- **🌍 Ethio JobBridge**  
-  Connecting job seekers and recruiters in Ethiopia with real-time updates and intuitive UI.  
-  `Flutter · Figma · REST API · Team Collaboration`
-
-- **📱 Coffee Order App**  
-  A sleek coffee ordering app built with Flutter and clean architecture principles.
-
-- **⚽ Adama City F.C. App**  
-  Kotlin Jetpack Compose app with Firebase backend for managing football club news, schedules, and stats.
-
-- **📚 Smart Study App**  
-  Offline study tracking and note-taking app using Room Database and modern Android components.
+- 🌐 [Portfolio](https://firaolbulo.onrender.com)
+- 💼 [LinkedIn](https://linkedin.com/in/firaol-bulo-142671252)
+- 💻 [GitHub](https://github.com/firaolkiya)
+- 📧 Email: firaolkiya6@gmail.com
 
 ---
 
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://linkedin.com/in/firaolbulo)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~yourprofilelink)
-- 📧 Email: `firaolbulo@gmail.com`
-
----
-
-_“Building one app at a time to shape the future.”_
+_“Engineering with purpose — building software that’s clean, scalable, and meaningful.”_
