@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Firaol Bulo</h1>
 
 <p align="center">
-  🎓 Final-Year Software Engineering Student at <strong>ASTU</strong> <br>
+  🎓 Software Engineering Student at <strong>ASTU</strong> <br>
   💡 AI & Automation Enthusiast • 📱 Mobile & Backend Developer <br>
   🌍 Based in Ethiopia | 🧠 Focused on solving real-world problems
 </p>
