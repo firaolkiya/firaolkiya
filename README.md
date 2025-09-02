@@ -23,8 +23,7 @@
 ---
 
 ## 🚀 About Me
-
-I’m a **fifth-year Software Engineering student** at **Adama Science and Technology University**, and a member of the **A2SV (Africa to Silicon Valley)** program.
+I’m a Software Engineer passionate about building impactful products that combine innovation, scalability, and clean design. My work spans from AI-powered automations to production-ready mobile and backend systems.
 
 Over the years, I’ve built multiple impactful software products — from AI-powered automations to production-grade mobile apps. My specialties include:
 
